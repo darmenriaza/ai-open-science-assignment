@@ -37,10 +37,7 @@ wordcloud
 pandas
 matplotlib
 
-Se pueden instalar con:
-
-
-pip install -r requirements.txt
+Se proporciona en el README un acceso al notebook en Google Colab.
 
 # Ejecución del análisis
 
