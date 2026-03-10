@@ -70,10 +70,10 @@ Este proyecto se distribuye bajo la licencia Apache 2.0.
 
 # Ejemplos
 
-# Keyword cloud
+## Keyword cloud
 
 ![Keyword cloud](results/keyword_cloud.png)
 
-# Figures per article
+## Figures per article
 
 ![Figures per article](results/figures_per_article.png)
